@@ -1,9 +1,9 @@
-# :sun_glasses: Cyber Threat Ingelligence
+# :dark_sunglasses: Cyber Threat Ingelligence
 ---
 
 <i>Bu çalışma, [aiseclab.org](https://aiseclab.org/) bünyesinde <b>night-stalkers</b> ekibi araştırma projesi olarak geliştirilmiştir.</i>
 
-# :sun_glasses: İçerik
+# :dark_sunglasses: İçerik
 ---
 <br/>
 
@@ -15,7 +15,7 @@
 6. İstihbarat Toplama Yöntemleri
 7. Tehdit İstihbaratı Seviyeleri
 
-# :sun_glasses: Ekip Üyeleri
+# :dark_sunglasses: Ekip Üyeleri
 ---
 <br/>
 
