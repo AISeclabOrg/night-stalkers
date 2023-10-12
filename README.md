@@ -1,4 +1,4 @@
-# :dark_sunglasses: Cyber Threat Ingelligence
+# :dark_sunglasses: Cyber Threat Intelligence
 ---
 
 <i>Bu çalışma, [aiseclab.org](https://aiseclab.org/) bünyesinde <b>night-stalkers</b> ekibi araştırma projesi olarak geliştirilmiştir.</i>
@@ -19,6 +19,8 @@
 ---
 <br/>
 
+**Danışman**: [Gözde SARMISAK](https://www.linkedin.com/in/gozdesarmisak/)
+<br/>
 1. [Aslıhan KUZUCU](https://github.com/aslikuzucu)
 2. [Mustafa Cüneyt KAFES](https://github.com/KaygusuzAbdal)
 3. [İrem USLU](https://github.com/irem6142)
