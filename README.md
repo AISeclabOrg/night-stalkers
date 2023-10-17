@@ -19,7 +19,7 @@
 ---
 <br/>
 
-**Danışman**: [Gözde SARMISAK](https://www.linkedin.com/in/gozdesarmisak/)
+**Danışman**: [Gözde SARMISAK](https://github.com/gozdesarmisak)
 <br/>
 1. [Aslıhan KUZUCU](https://github.com/aslikuzucu)
 2. [Mustafa Cüneyt KAFES](https://github.com/KaygusuzAbdal)
